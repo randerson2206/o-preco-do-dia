@@ -41,15 +41,5 @@ Ferramentas que precisam ser instaladas no seu ambiente de desenvolvimento:
     a - android
     w - web //uso este
 
-## Como Usar
-Após iniciar o servidor, abra o app Expo Go no seu dispositivo móvel, web ou use um emulador.
-Leia o QR Code exibido no terminal ou navegador.
-Navegue pelas abas:
-**Login**: Página inicial.
-**Cadastro**: Página para cadastrar o usuário.
-**Home**: Página principal com listagem dos produtos.
-**Produtos**: Cadastro de produtos.
-**Categoria**: Cadastro de categorias dos produtos.
-**Local**: Cadastro de locais.
-**Perfil**: Visualize e edite informações do usuário.
+
 
